@@ -11,7 +11,7 @@
 
      echo '<h1>eduardo lindão</h1>';
 
-     $meu__nome = "Datake";
+     $meu__nome = "Eduardo";
      $idade = "18";
      $tem_o_olhar_do_anjo_caido = true;
 
